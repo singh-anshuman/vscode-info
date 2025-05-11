@@ -6,3 +6,4 @@ __MAC OS__
 - Toggeling Terminal Window - control + `
 - Opening Settings - command + ,
 - Auto Suggestions - command + .
+- Opening a file - command + p
