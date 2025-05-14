@@ -7,3 +7,4 @@ __MAC OS__
 - Opening Settings - command + ,
 - Auto Suggestions - command + .
 - Opening a file - command + p
+- Showing preview - command + k v
